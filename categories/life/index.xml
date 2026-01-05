@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Life on Software hacks in small packs</title>
+    <link>http://localhost:1313/categories/life/</link>
+    <description>Recent content in Life on Software hacks in small packs</description>
+    <generator>Hugo -- 0.154.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding streak after long time</title>
+      <link>http://localhost:1313/posts/coding-streak-after-long-time/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/coding-streak-after-long-time/</guid>
+      <description>&lt;p&gt;When you go to higher level in your respective field, you loose touch with core things which you enjoyed the most. For me it is Coding.&lt;/p&gt;
+&lt;p&gt;After becoming a tech lead it was more about focusing on the design system and my team writing most of the code. It doesn’t mean I didn’t write any. I used to find some tasks which I can work on independently as I didn’t want to lose touch and I like to write code. But since then I never had a long uninterrupted streak of writing code. &lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
